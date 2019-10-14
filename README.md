@@ -8,6 +8,8 @@ This uis are a part of a complete Flutter project, specialy get care of the shop
 <p float="left">
   <img src="https://user-images.githubusercontent.com/56515652/66757284-1ff57680-ee9c-11e9-83e0-cfd94a441fae.png" 
        width=250 hspace="20"/> 
+        <p style="padding-top: 5cm"></p>
+
   <img src="https://user-images.githubusercontent.com/56515652/66757319-369bcd80-ee9c-11e9-8220-6ae40a0eb4b5.png"
        width=250 hspace="20"/> 
       <p style="padding-top: 5cm"></p>
