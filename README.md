@@ -1,16 +1,17 @@
-# groceries_shopping
+# Best Cafe Shop
 
-A new Flutter application.
+This uis are a part of a complete Flutter project, specialy get care of the shopping process of cafes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66757284-1ff57680-ee9c-11e9-83e0-cfd94a441fae.png" 
+       width=250 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66757319-369bcd80-ee9c-11e9-8220-6ae40a0eb4b5.png"
+       width=250 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66757352-46b3ad00-ee9c-11e9-8dc3-405b134e6956.png" 
+       width=250 hspace="10"/>
+  <img src="https://user-images.githubusercontent.com/56515652/66757384-5f23c780-ee9c-11e9-85d6-851083a6b534.png" 
+       width=250 hspace="10"/>
+</p>
